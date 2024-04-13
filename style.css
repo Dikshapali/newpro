@@ -1,0 +1,43 @@
+body {
+justify-content: center;
+align-items: center;
+background-color: burlywood
+
+
+}
+#gif{
+    text-align: center;
+
+
+}
+img{
+    margin-top: 50px;
+    max-width: 300px;
+}
+h1{
+    text-align: center;
+    text-shadow: coral;
+}
+h3{
+    text-align: center;
+    text-shadow: coral;
+    font-size: 30px;
+}
+#btn{
+    text-align: center;
+    margin: 5px;
+    cursor: pointer;
+    
+}
+a{
+    margin: 80px;
+    cursor: pointer;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    margin: 13px;
+    padding: 13px;
+    cursor: pointer;
+}
